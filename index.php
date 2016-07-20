@@ -1,1 +1,1 @@
-<?php header( 'week-3-game: /index.html' ) ;  ?>
+<?php header( 'Location: /index.html' ) ;  ?>
