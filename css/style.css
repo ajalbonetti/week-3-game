@@ -1,0 +1,33 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: black;
+}
+
+/*Zoltar Image*/
+
+#zoltar {
+	float: left;
+	width: 50%;
+}
+
+#zoltar img {
+	width: 100%;
+}
+
+/*Game Display*/
+
+#gameinfo {
+	padding: 60px;
+	width: 50%;
+	background-color: black;
+	color: #ec1d25;
+	float: right;
+	height: auto;
+}
+
+h1, span {
+	color: white;
+}
